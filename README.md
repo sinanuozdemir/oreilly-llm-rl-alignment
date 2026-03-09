@@ -7,8 +7,10 @@
 This repository contains Jupyter notebooks for:
 
 1. ["Aligning Large Language Models"](https://www.oreilly.com/live-events/aligning-large-language-models/0636920098043/0636920098042/) Live Session
+
 2. ["Reinforcement Learning with Large Language Models"](https://www.oreilly.com/live-events/reinforcement-learning-with-large-language-models/0636920095685)  Live Lesson
-3.[Reinforcement Learning for LLM Alignment and Reasoning
+
+3. [Reinforcement Learning for LLM Alignment and Reasoning
 ](https://learning.oreilly.com/course/reinforcement-learning-for/9780135565087/) Video Course
 
 by Sinan Ozdemir. Published by Pearson, the course covers effective best practices and industry case studies in using Large Language Models (LLMs).
